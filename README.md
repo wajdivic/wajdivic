@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wajdivic
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on 5G projects
+- 💞️ I’m looking to collaborate on IAD, Automotive and STB projects
 - 📫 How to reach me ...
 
 <!---
